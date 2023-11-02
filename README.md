@@ -10,7 +10,7 @@ Data Sources:
 * [2020 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/competitions/kaggle-survey-2020/data)
 
 Inferential Statistics:
-* [Hypothesis](https://github.com/adityamwagh/dsml-jobs-analysis/blob/main/hypothesis_testing_b.ipynb): What Data Science jobs have the highest salaries?
+* [Hypothesis](https://github.com/adityamwagh/dsml-jobs-analysis/blob/main/hypothesis_testing_a.ipynb): What Data Science jobs have the highest salaries?
 * [Hypothesis](https://github.com/adityamwagh/dsml-jobs-analysis/blob/main/hypothesis_testing_b.ipynb): Is the representation of Advanced degrees (Masters & above) among Data Professionals increasing over years?
 
 [Salary prediction](https://github.com/adityamwagh/dsml-jobs-analysis/blob/main/salary_prediction.ipynb): Predict data science job salaries of individuals in the United States based on covariates such as their job title, industry, skill sets and experience.
